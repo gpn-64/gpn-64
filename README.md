@@ -1,9 +1,5 @@
 I'm a BI developer in Ottawa. As a PharmD with over ten years in the pharma industry, I usually know what the healthcare data means before I chart it. These days: Power BI, SQL, a lot of Python.
 
-[![Portfolio](https://img.shields.io/badge/portfolio-gpn64.github.io-1f6fed?style=flat)](https://gpn64.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fgpn-0a66c2?style=flat)](https://linkedin.com/in/gpn)
-[![Email](https://img.shields.io/badge/email-outlook-238636?style=flat)](mailto:guillaume.pien@outlook.com)
-
 ### What I'm usually working on:
 - Dashboards that answer one question well, instead of showing every number I have.
 - Data models I'd be happy to hand to someone else: documented DAX, clean schemas.
