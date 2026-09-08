@@ -1,9 +1,9 @@
-I'm a BI developer in Ottawa. As a PharmD with over ten years in the pharma industry, I usually know what the healthcare data means before I chart it. These days: Power BI, SQL, a lot of Python.
+I'm a BI developer in Ottawa. As a PharmD with over ten years in the pharma industry, I usually know what the pharma data means before I chart it. These days: Power BI, SQL, a lot of Python.
 
 ### What I'm usually working on:
 - Dashboards that answer one question well, instead of showing every number I have.
 - Data models I'd be happy to hand to someone else: documented DAX, clean schemas.
-- On weekends, quant experiments in Python and a bit of retro game tinkering.
+- On weekends, data science experiments in Python and a bit of retro game tinkering.
 
 ### What I work with:
 
