@@ -1,9 +1,10 @@
-I'm a BI developer in Ottawa. As a PharmD with over ten years in the pharma industry, I usually know what the pharma data means before I chart it. These days: Power BI, SQL, a lot of Python.
+I'm a BI developer in Ottawa. My background is in pharma (PharmD), with over ten years in the industry, so I usually know what the data means before I chart it. 
+These days: Power BI, SQL, a lot of Python.
 
 ### What I'm usually working on:
 - Dashboards that answer one question well, instead of showing every number I have.
-- Data models I'd be happy to hand to someone else: documented DAX, clean schemas.
-- On weekends, data science experiments in Python and a bit of retro game tinkering.
+- Data models I'd be happy to hand to someone else: documented code, clean schemas.
+- Data science tinkering on the side: whatever dataset catches my interest, from retro game markets to sound engineering.
 
 ### What I work with:
 
@@ -27,6 +28,12 @@ Python
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&labelColor=F7931E)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4c566a?style=flat)](#)
+
+ML & Analytics
+[![XGBoost](https://img.shields.io/badge/XGBoost-4c566a?style=flat)](#)
+[![SHAP](https://img.shields.io/badge/SHAP-4c566a?style=flat)](#)
+[![PuLP](https://img.shields.io/badge/PuLP-4c566a?style=flat)](#)
+[![PM4Py](https://img.shields.io/badge/PM4Py-4c566a?style=flat)](#)
 
 Automation
 [![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white&labelColor=0066FF)](#)
