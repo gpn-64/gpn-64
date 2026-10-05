@@ -1,10 +1,12 @@
-I'm a BI developer in Ottawa. My background is in pharma (PharmD), with over ten years in the industry, so I usually know what the data means before I chart it. 
-These days: Power BI, SQL, a lot of Python.
+I'm a BI developer in Ottawa. My background is in pharma (PharmD, 10+ years across production, quality and regulatory affairs), so I usually know what the data means before I chart it.
+
+These days: Power BI (DAX, Power Query), SQL, a lot of Python.
 
 ### What I'm usually working on:
 - Dashboards that answer one question well, instead of showing every number I have.
-- Data models I'd be happy to hand to someone else: documented code, clean schemas.
-- Data science tinkering on the side: whatever dataset catches my interest, from retro game markets to sound engineering.
+- Data models I'd be happy to hand to someone else: documented code, clean schemas, Power BI projects in PBIP/TMDL so they diff cleanly in Git.
+- Honest write-ups: when a model loses to a naive baseline, or the data has a gap, it goes in the README.
+- Data science tinkering on the side: whatever dataset catches my interest, from retro game markets to speedrun records.
 
 ### What I work with:
 
@@ -28,12 +30,14 @@ Python
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&labelColor=F7931E)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4c566a?style=flat)](#)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white&labelColor=3F4F75)](#)
 
 ML & Analytics
 [![XGBoost](https://img.shields.io/badge/XGBoost-4c566a?style=flat)](#)
 [![SHAP](https://img.shields.io/badge/SHAP-4c566a?style=flat)](#)
 [![PuLP](https://img.shields.io/badge/PuLP-4c566a?style=flat)](#)
 [![PM4Py](https://img.shields.io/badge/PM4Py-4c566a?style=flat)](#)
+[![Prophet](https://img.shields.io/badge/Prophet-4c566a?style=flat)](#)
 
 Automation
 [![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white&labelColor=0066FF)](#)
