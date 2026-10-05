@@ -6,7 +6,7 @@ These days: Power BI (DAX, Power Query), SQL, a lot of Python.
 - Dashboards that answer one question well, instead of showing every number I have.
 - Data models I'd be happy to hand to someone else: documented code, clean schemas, Power BI projects in PBIP/TMDL so they diff cleanly in Git.
 - Honest write-ups: when a model loses to a naive baseline, or the data has a gap, it goes in the README.
-- Data science tinkering on the side: whatever dataset catches my interest, from retro game markets to speedrun records.
+- Data science tinkering on the side: whatever dataset catches my interest, from retro game markets to sound engineering.
 
 ### What I work with:
 
